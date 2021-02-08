@@ -6,8 +6,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: '守着瓜的猹', // Usually your GitHub org/user name.
-  projectName: 'shawnzhang31', // Usually your repo name.
+  organizationName: 'ShawnZhang31', // Usually your GitHub org/user name.
+  projectName: 'shawn_docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '西瓜hub',
