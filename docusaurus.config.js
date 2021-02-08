@@ -18,8 +18,9 @@ module.exports = {
       items: [
         {to: 'docs', label: '积累', position: 'right'},
         {to: 'blog', label: '博客', position: 'right'},
+        // {search: true},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'git@github.com:ShawnZhang31/shawn_docs.git',
           label: 'GitHub',
           position: 'right',
         },
