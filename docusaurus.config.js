@@ -1,8 +1,8 @@
 module.exports = {
   title: '西瓜hub',
   tagline: '守着瓜的猹的一地西瓜',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://shawnzhang31.github.io',
+  baseUrl: '/shawn_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
